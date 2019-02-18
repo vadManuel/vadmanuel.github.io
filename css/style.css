@@ -17,7 +17,7 @@ nav ul li, footer ul li {
 
 a {
     text-decoration: none;
-    color: red;
+    color: #999;
 }
 
 a:hover {
@@ -26,7 +26,6 @@ a:hover {
 
 h1 {
     font-size: 3em;
-    color: red;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
